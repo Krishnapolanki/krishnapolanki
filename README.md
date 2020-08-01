@@ -26,6 +26,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backup Service Fabric Stateful Service Data into ADL](https://dev.to/krishnapolanki/backup-service-fabric-stateful-service-data-into-adl-5g40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
