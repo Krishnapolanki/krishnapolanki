@@ -26,6 +26,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular ng-template, ng-container and ngTemplateOutlet usages](https://dev.to/krishnapolanki/angular-ng-template-ng-container-and-ngtemplateoutlet-usages-599)
 - [Component Inheritance in Angular](https://dev.to/krishnapolanki/component-inheritance-in-angular-189k)
 - [Preloading Strategies in Angular - Part 1](https://dev.to/krishnapolanki/preloading-strategies-in-angular-part-1-4mg5)
 - [Backup Service Fabric Stateful Service Data into ADL](https://dev.to/krishnapolanki/backup-service-fabric-stateful-service-data-into-adl-5g40)
