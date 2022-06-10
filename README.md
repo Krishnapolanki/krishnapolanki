@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger Jenkins Job on PR from Azure DevOps](https://dev.to/krishnapolanki/running-jenkins-on-pr-in-azure-devops-4eh0)
 - [Access modifiers in TypeScript class Constructor](https://dev.to/krishnapolanki/access-modifiers-in-typescript-class-constructor-20pf)
 - [Content Projection in Angular using ng-content](https://dev.to/krishnapolanki/angular-ng-content-and-content-projection-2ie5)
 - [Angular ng-template, ng-container and ngTemplateOutlet usages](https://dev.to/krishnapolanki/angular-ng-template-ng-container-and-ngtemplateoutlet-usages-599)
 - [Component Inheritance in Angular](https://dev.to/krishnapolanki/component-inheritance-in-angular-189k)
-- [Preloading Strategies in Angular](https://dev.to/krishnapolanki/preloading-strategies-in-angular-part-1-4mg5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
